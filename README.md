@@ -1,4 +1,4 @@
-# Software Developer Portfolio using Angular ⚡️ 
+# Bachelor Final Year Project of Management System ⚡️ 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
 <!-- <p align="center"> 
