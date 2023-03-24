@@ -1,0 +1,560 @@
+[07-Aug-2021 09:04:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:34 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:36 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:37 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:37 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:38 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:04:38 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:39 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:39 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:39 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:40 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:40 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:04:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:03 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:03 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:06:04 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:04 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:05 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:05 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:05 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:06 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:06:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:09 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:10 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:10 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:10 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:11 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:11 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:12 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:09:12 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:12 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:13 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:13 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:13 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:09:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:29 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:30 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:30 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `wacarsco_mergetesting`.`vendor`.`phone2` at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:10:31 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:31 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:31 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:32 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:32 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:10:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:29 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:29 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:30 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:30 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php:63
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php(63): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/insertVendor.php on line 63
+[07-Aug-2021 09:11:31 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php:78
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php(78): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php on line 78
+[07-Aug-2021 09:11:31 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php:78
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php(78): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php on line 78
+[07-Aug-2021 09:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php:78
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php(78): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php on line 78
+[07-Aug-2021 09:11:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php:78
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php(78): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php on line 78
+[07-Aug-2021 09:11:35 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:11:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'phone2' at row 1 in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php:78
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php(78): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/updateVendorDetails.php on line 78
+[07-Aug-2021 09:13:14 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:13:15 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:13:15 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:16:17 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:16:37 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:17:01 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:25:34 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:45:32 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[07-Aug-2021 09:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[09-Aug-2021 05:59:44 UTC] PHP Notice:  Undefined variable: conn in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3
+[09-Aug-2021 05:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/vendor/getVendorNames.php on line 3

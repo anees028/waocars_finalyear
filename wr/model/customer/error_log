@@ -1,0 +1,35 @@
+[07-Aug-2021 09:33:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62
+[07-Aug-2021 09:33:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62
+[07-Aug-2021 09:33:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62
+[07-Aug-2021 09:33:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62
+[07-Aug-2021 09:33:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62
+[07-Aug-2021 09:33:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62
+[07-Aug-2021 09:33:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[22003]: Numeric value out of range: 1264 Out of range value for column 'mobile' at row 1 in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php:62
+Stack trace:
+#0 /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php(62): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/wacarsco/public_html/wr/model/customer/insertCustomer.php on line 62

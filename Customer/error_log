@@ -1,0 +1,4 @@
+[07-Aug-2021 11:28:53 UTC] PHP Notice:  Undefined index: id in /home1/wacarsco/public_html/Customer/carassessment.php on line 29
+[07-Aug-2021 11:29:08 UTC] PHP Notice:  Undefined index: carid in /home1/wacarsco/public_html/Customer/carattachmentslist.php on line 66
+[07-Aug-2021 11:29:27 UTC] PHP Notice:  Undefined index: id in /home1/wacarsco/public_html/Customer/carassessment.php on line 29
+[07-Aug-2021 11:29:57 UTC] PHP Notice:  Undefined index: id in /home1/wacarsco/public_html/Customer/carassessment.php on line 29
